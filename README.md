@@ -18,8 +18,6 @@
 
 I am an aspiring **Cloud Computing Professional** with strong foundations in **C++**, **Data Structures**, and **Front-End Development**. I actively blend rigorous academic coursework with practical skills to build a strong foundation in **cloud infrastructure** and **application development**.
 
-🎓 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi** — BCA, Computer Application
-
 ### 🔍 What I Do
 
 **☁️ Cloud Computing & AWS**
