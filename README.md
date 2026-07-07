@@ -18,6 +18,8 @@
 
 I am an aspiring **Cloud Computing Professional** with strong foundations in **C++**, **Data Structures**, and **Front-End Development**. I actively blend rigorous academic coursework with practical skills to build a strong foundation in **cloud infrastructure** and **application development**.
 
+🎓 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi** — BCA, Computer Application
+
 ### 🔍 What I Do
 
 **☁️ Cloud Computing & AWS**
@@ -265,41 +267,6 @@ Feel free to reach out! Follow me for updates on my cloud projects, DevOps learn
 ![Research](https://img.shields.io/badge/Research_Implementation-607D8B?style=for-the-badge)
 
 </div>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShivamDubey&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShivamDubey&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShivamDubey&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</td>
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDubey&theme=react-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivamDubey&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
 
 <br/>
 
