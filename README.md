@@ -18,8 +18,6 @@
 
 I am an aspiring **Cloud Computing Professional** with strong foundations in **C++**, **Data Structures**, and **Front-End Development**. I actively blend rigorous academic coursework with practical skills to build a strong foundation in **cloud infrastructure** and **application development**.
 
-🎓 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi** — BCA, Computer Application
-
 ### 🔍 What I Do
 
 **☁️ Cloud Computing & AWS**
@@ -61,8 +59,8 @@ class ShivamDubey {
     public:
         string role = "Aspiring Cloud Computing Professional | DevOps Enthusiast | Front-End Developer";
         string location = "India 🇮🇳";
-        string email = "thebey@outlook.in";
-        string education = "BCA — MGKVP, Varanasi";
+        string email = "theshivamdubey@outlook.in";
+        string education = "BCA" , Varanasi";
         
         vector<string> certifications = {
             "AWS Cloud Technical Essentials",
@@ -143,7 +141,7 @@ Feel free to reach out! Follow me for updates on my cloud projects, DevOps learn
 - 🤖 Building projects with **C++, DSA** and **front-end technologies**
 - 👯 Open to collaborate on **DevOps tools**, **cloud-native apps** & **open-source projects**
 - 💬 Ask me about **AWS, Cloud Computing, Linux, C++, Data Structures, Front-End Development, Cybersecurity**
-- 📫 Reach me: **thebey@outlook.in**
+- 📫 Reach me: **theshivamdubey@outlook.in**
 
 <br/>
 
@@ -375,8 +373,8 @@ Feel free to reach out! Follow me for updates on my cloud projects, DevOps learn
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-thebey@outlook.in-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:thebey@outlook.in)
-[![GitHub](https://img.shields.io/badge/GitHub-ShivamDubey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamDubey)
+[![Email](https://img.shields.io/badge/Email-theshivamdubey@outlook.in-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:theshivamdubey@outlook.in)
+[![GitHub](https://img.shields.io/badge/GitHub-theshivamdubey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theshivamdubey)
 
 </div>
 
@@ -441,6 +439,6 @@ Committed to learning emerging cloud technologies and industry best practices
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4440FF,50:00b4d8,100:FF69B4&height=80&section=footer" width="100%" />
 </p>
 
-**⭐️ From [ShivamDubey](https://github.com/ShivamDubey) — Aspiring Cloud Computing Professional | DevOps | C++ | DSA**
+**⭐️ From [ShivamDubey](https://github.com/theshivamdubey) — Aspiring Cloud Computing Professional | DevOps | C++ | DSA**
 
 </div>
