@@ -1,336 +1,443 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shivam+Dubey&fontColor=fff&fontSize=50&animation=fadeIn&desc=Cloud+Computing+%7C+DevOps+%7C+Front-End+Developer&descAlignY=70&descSize=18" width="100%" />
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShivamDubey.ShivamDubey" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00b4d8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shivam+Dubey+%F0%9F%91%8B;Aspiring+Cloud+Computing+Professional+%E2%98%81%EF%B8%8F;C%2B%2B+%7C+DSA+%7C+Front-End+Developer+%F0%9F%9A%80;Currently+Learning+DevOps+%F0%9F%9B%A0%EF%B8%8F;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Dubey!;" />
+</h1>
 
-<p align="center">
-  <a href="mailto:thebey@outlook.in"><img src="https://img.shields.io/badge/📧_Email-thebey@outlook.in-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🌍_Location-India-FF9933?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🧠_Currently_Learning-DevOps-8A2BE2?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/👥_Open_to-Collaboration-2E7D32?style=for-the-badge" />
-</p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1000&lines=Aspiring+Cloud+Computing+Professional+%7C+DevOps+Enthusiast+%7C+Front-End+Developer;C%2B%2B+%7C+DSA+%7C+AWS+%7C+Linux+%7C+Cybersecurity" />
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamDubey&label=Profile+Views&color=00b4d8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ShivamDubey?style=social" />
-  <img src="https://img.shields.io/github/stars/ShivamDubey?style=social" />
-</p>
-
----
+<br/>
 
 ## 👨‍💻 About Me
 
-Aspiring **Cloud Computing Professional** with strong foundations in **C++**, **Data Structures**, and **Front-End Development**. I am actively blending rigorous academic coursework with practical skills to build a strong foundation in cloud infrastructure and application development.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- ☁️ Passionate about **AWS**, **DevOps culture**, and designing **scalable cloud-based solutions**
-- 💻 Skilled in **C++, C, Java, JavaScript, SQL** with hands-on cloud service experience
-- 🛡️ Interested in **cybersecurity**, **cloud governance**, and **infrastructure as code**
-- 🎯 Goal: Contribute to projects that drive **digital transformation** and deliver **exceptional user experiences**
-- 🤝 Open to collaborating on **DevOps** and **Cloud** projects
+### 🌟 My Journey
 
----
+I am an aspiring **Cloud Computing Professional** with strong foundations in **C++**, **Data Structures**, and **Front-End Development**. I actively blend rigorous academic coursework with practical skills to build a strong foundation in **cloud infrastructure** and **application development**.
 
-## 🛠️ Technical Skills
+🎓 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi** — BCA, Computer Application
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="4"><b>💻 Programming Languages</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /><br>
-      <sub>C</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
-      <sub>C++ & OOP</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
-      <sub>Core Java</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <sub>JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <sub>SQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=flat-square" /><br>
-      <sub>DSA</sub>
-    </td>
-  </tr>
-</table>
+### 🔍 What I Do
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="4"><b>☁️ AWS Cloud Services</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /><br>
-      <sub>EC2</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" /><br>
-      <sub>Lambda</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /><br>
-      <sub>S3</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" /><br>
-      <sub>RDS & Aurora</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" /><br>
-      <sub>DynamoDB</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CloudFront-FF4F8B?style=flat-square&logo=amazon-cloudfront&logoColor=white" /><br>
-      <sub>CloudFront</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white" /><br>
-      <sub>Route 53</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=aws-iam&logoColor=white" /><br>
-      <sub>IAM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-cloudformation&logoColor=white" /><br>
-      <sub>CloudFormation</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square&logo=amazon-codedeploy&logoColor=white" /><br>
-      <sub>CodeDeploy</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Load_Balancing-FF9900?style=flat-square" /><br>
-      <sub>Load Balancing</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=serverless&logoColor=white" /><br>
-      <sub>Serverless</sub>
-    </td>
-  </tr>
-</table>
+**☁️ Cloud Computing & AWS**
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="4"><b>🔧 DevOps, Infrastructure & Security</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
-      <sub>Linux Admin</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <sub>Containerization</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cloud_Security-FF6F00?style=flat-square" /><br>
-      <sub>Cloud Security</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VPN-0052CC?style=flat-square" /><br>
-      <sub>Virtual Private Networks</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square" /><br>
-      <sub>General Networking</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Scalability-2E7D32?style=flat-square" /><br>
-      <sub>Scalability</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cloud_Governance-9C27B0?style=flat-square" /><br>
-      <sub>Cloud Governance</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cybersecurity-F44336?style=flat-square" /><br>
-      <sub>Cybersecurity & InfoSec</sub>
-    </td>
-  </tr>
-</table>
+Passionate about designing and deploying scalable cloud-based solutions:
+- 🖥️ Amazon EC2 — Virtual servers & auto-scaling
+- ⚡ AWS Lambda — Serverless computing & event-driven architecture
+- 📦 Amazon S3 — Object storage & data management
+- 🗄️ Amazon RDS, Aurora & DynamoDB — Relational & NoSQL databases
+- 🌐 CloudFront & Route 53 — Content delivery & DNS management
+- 🔐 AWS IAM — Identity & access management
+- 🏗️ CloudFormation & CodeDeploy — Infrastructure as Code & CI/CD
+- ⚖️ Load Balancing & Scalability — High availability architectures
+
+**💻 Programming & Front-End Development**
+
+Building modern applications with strong fundamentals:
+- 💪 C & C++ — Data Structures, Algorithms & OOP
+- ☕ Core Java — Object-Oriented Programming
+- 🌐 JavaScript, HTML5 & CSS3 — Front-End Web Development
+- 📊 Data Visualization — Turning data into insights
+- 🎨 Web Application Design — Responsive & user-centric UIs
+- 🔒 OOP & Encapsulation — Clean, maintainable code architecture
+
+**🛡️ DevOps, Security & Infrastructure**
+
+Embracing DevOps culture and cloud security best practices:
+- 🐧 Linux Administration & System Management
+- 🐳 Docker — Containerization & microservices
+- 🔒 Cloud Security & Cybersecurity
+- 🌐 General Networking & VPN
+- ⚖️ Cloud Governance & Compliance
+- 🔄 Software Development Methodologies
+
+### 🎯 Areas of Expertise
+
+```cpp
+class ShivamDubey {
+    public:
+        string role = "Aspiring Cloud Computing Professional | DevOps Enthusiast | Front-End Developer";
+        string location = "India 🇮🇳";
+        string email = "thebey@outlook.in";
+        string education = "BCA — MGKVP, Varanasi";
+        
+        vector<string> certifications = {
+            "AWS Cloud Technical Essentials",
+            "Linux Certified",
+            "SQL Certified",
+            "OOP using C++ (BCA)"
+        };
+        
+        map<string, vector<string>> expertise = {
+            {"AWS Cloud Services", {
+                "EC2", "Lambda", "S3", "RDS", "Aurora",
+                "DynamoDB", "CloudFront", "Route 53", "IAM",
+                "CloudFormation", "CodeDeploy", "Load Balancing"
+            }},
+            {"Programming", {
+                "C", "C++", "Core Java", "JavaScript",
+                "SQL", "HTML5", "CSS3", "Data Structures"
+            }},
+            {"DevOps & Security", {
+                "Linux Administration", "Docker", "Containerization",
+                "Cloud Security", "Cybersecurity", "VPN",
+                "Networking", "Cloud Governance", "Scalability"
+            }},
+            {"Professional Skills", {
+                "Front-End Development", "Web App Design",
+                "Data Visualization", "Analytical Skills",
+                "Communication", "Research Implementation"
+            }}
+        };
+        
+        string mission = "Designing scalable cloud solutions that drive digital transformation";
+    
+        vector<string> current_work() {
+            return {
+                "Deepening AWS cloud architecture expertise",
+                "Learning DevOps — CI/CD, Docker, Kubernetes, Terraform",
+                "Building projects with C++, DSA & front-end tech",
+                "Exploring cloud security & infrastructure as code"
+            };
+        }
+};
+
+int main() {
+    ShivamDubey me;
+    cout << "🎯 Mission: " << me.mission << endl;
+    cout << "📍 Location: " << me.location << endl;
+    cout << "📧 Contact: " << me.email << endl;
+    return 0;
+}
+```
+
+### 🚀 Innovation & Impact
+
+I focus on delivering solutions that:
+- ✅ Leverage **cloud-native architectures** for scalability
+- ✅ Implement **DevOps culture** for faster delivery
+- ✅ Enhance **operational efficiency** through automation
+- ✅ Deliver **exceptional user experiences** through modern front-end
+- ✅ Ensure **security & governance** across cloud infrastructure
+
+### 🤝 Let's Connect
+
+I'm always exploring new frontiers in cloud computing. Whether you're interested in:
+- ☁️ **Cloud Architecture & AWS Projects**
+- 🛠️ **DevOps Tooling & CI/CD Pipelines**
+- 💻 **Front-End Development Collaboration**
+- 🔐 **Cloud Security & Governance**
+- 📚 **Open-Source Contributions**
+
+Feel free to reach out! Follow me for updates on my cloud projects, DevOps learnings, and technical growth.
+
+<br/>
+
+## 🎯 Current Focus
+
+- 🔭 Working on **AWS cloud architecture patterns** & **serverless applications**
+- 🌱 Currently learning **DevOps** — CI/CD pipelines, Docker, Kubernetes, Terraform
+- 🤖 Building projects with **C++, DSA** and **front-end technologies**
+- 👯 Open to collaborate on **DevOps tools**, **cloud-native apps** & **open-source projects**
+- 💬 Ask me about **AWS, Cloud Computing, Linux, C++, Data Structures, Front-End Development, Cybersecurity**
+- 📫 Reach me: **thebey@outlook.in**
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+### 🎖️ Professional Certifications
 
 <table align="center">
-  <tr>
-    <td align="center" colspan="4"><b>🌐 Web Development & Professional Skills</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Front--End_Dev-E44D26?style=flat-square" /><br>
-      <sub>Front-End Development</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Web_App_Design-FF5722?style=flat-square" /><br>
-      <sub>Web App Design</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data_Visualization-4CAF50?style=flat-square" /><br>
-      <sub>Data Visualization</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/OOP_Encapsulation-673AB7?style=flat-square" /><br>
-      <sub>OOP & Encapsulation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Analytical_Skills-FF9800?style=flat-square" /><br>
-      <sub>Analytical Skills</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Communication-2196F3?style=flat-square" /><br>
-      <sub>Communication</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Software_Dev_Methodologies-795548?style=flat-square" /><br>
-      <sub>Dev Methodologies</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Research_Implementation-607D8B?style=flat-square" /><br>
-      <sub>Research Implementation</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS_Cloud_Technical-Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<br><b>EC2 • S3 • Lambda • RDS • DynamoDB<br>CloudFormation • IAM • CodeDeploy<br>CloudFront • Route 53 • Serverless<br>Load Balancing • Cloud Security<br>VPN • Networking</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Linux-Certified-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<br><b>Linux Administration<br>System Management<br>Command Line & Shell Scripting</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/SQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<br><b>Relational Databases<br>SQL Queries & Optimization<br>Data Modeling</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-OOP_Certified-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<br><b>Certification Course for BCA<br>Object-Oriented Programming<br>Encapsulation & Abstraction</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Finance_Skills-BCA_Certification-2E7D32?style=for-the-badge" />
+<br><b>Finance Skills for Finance • Research Implementation • Analytical Skills</b>
+</td>
+</tr>
 </table>
 
----
+### 🌟 Key Achievements
 
-## 🏅 Licenses & Certifications
+**☁️ Cloud Computing:**
+- 🏗️ **AWS Cloud Technical Essentials** — Mastery of 12+ AWS services
+- 🐧 **Linux Certified** — Administration & system management
+- 🗄️ **SQL Certified** — Database design & optimization
+- ⚖️ **Cloud Governance** — Policy, compliance & best practices
+- 🔒 **Cloud Security** — Securing cloud infrastructure & applications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/☁️_AWS_Cloud_Technical-Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🐧_Linux-Certified-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🗄️_SQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**💻 Programming & Development:**
+- 💪 **Strong C++ & DSA** — Problem solving with efficient algorithms
+- ☕ **Core Java & OOP** — Object-oriented design patterns
+- 🌐 **Front-End Expertise** — JavaScript, HTML5, CSS3, responsive design
+- 📊 **Data Visualization** — Turning complex data into clear insights
+- 🎨 **Web App Design** — Modern, user-centric interfaces
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Object_Oriented_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/💰_Finance_Skills-BCA_Certification-2E7D32?style=for-the-badge" />
-</p>
+**🛡️ DevOps & Security:**
+- 🐳 **Containerization** — Docker & microservices architecture
+- 🔄 **CI/CD Pipelines** — CloudFormation & CodeDeploy automation
+- 🔐 **Cybersecurity & InfoSec** — Security-first mindset
+- 🌐 **Networking & VPN** — Understanding network architecture
+- ⚡ **Scalability & Load Balancing** — High-availability systems
 
-<table align="center">
-  <tr>
-    <td align="center"><b>☁️ AWS Cloud Technical Essentials</b></td>
-    <td align="center"><b>🐧 Linux</b></td>
-    <td align="center"><b>🗄️ SQL Certification</b></td>
-  </tr>
-  <tr>
-    <td>EC2 • S3 • Lambda • RDS • Aurora<br>DynamoDB • CloudFormation • IAM<br>CodeDeploy • CloudFront • Route 53<br>Containerization • Serverless<br>Load Balancing • Cloud Security<br>VPN • General Networking</td>
-    <td>Linux Administration<br>System Management<br>Command Line & Shell Scripting</td>
-    <td>Relational Databases<br>SQL Queries & Optimization<br>Data Modeling</td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 OOP using C++</b></td>
-    <td align="center"><b>💰 Finance Skills</b></td>
-    <td align="center"><b>🎓 Education</b></td>
-  </tr>
-  <tr>
-    <td>Certification Course for BCA<br>Object-Oriented Programming<br>Encapsulation & Abstraction</td>
-    <td>Finance Skills for Finance<br>Research Implementation<br>Analytical Skills</td>
-    <td>Mahatma Gandhi Kashi Vidyapith<br>(MGKVP), Varanasi<br>BCA — Computer Application</td>
-  </tr>
+<br/>
+
+## ⚒️ Tech Arsenal & Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Core Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ AWS Cloud Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-FF9900?style=for-the-badge&logo=amazon-aurora&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazon-route53&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=aws-iam&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-cloudformation&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge&logo=amazon-codedeploy&logoColor=white)
+
+### 🔧 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge&logo=serverless&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF6F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalability-2E7D32?style=for-the-badge)
+![Cloud Governance](https://img.shields.io/badge/Cloud_Governance-9C27B0?style=for-the-badge)
+
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌐 Web Development & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Front-End Dev](https://img.shields.io/badge/Front--End-Development-E44D26?style=for-the-badge)
+![Web App Design](https://img.shields.io/badge/Web_App_Design-FF5722?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🛡️ Security & Professional
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-F44336?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Information_Security-FF6F00?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP_Encapsulation-673AB7?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-4CAF50?style=for-the-badge)
+![Analytical Skills](https://img.shields.io/badge/Analytical_Skills-FF9800?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-2196F3?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research_Implementation-607D8B?style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShivamDubey&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShivamDubey&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShivamDubey&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</td>
+<td width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDubey&theme=react-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
+</td>
+</tr>
 </table>
 
----
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDubey&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDubey&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDubey&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDubey&theme=tokyo-night&hide_border=true&area=true" width="48%" />
-</p>
-
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivamDubey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamDubey&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
+
+<br/>
+
+## 🚀 What I'm Building & Learning
+
+<div align="center">
+
+### ☁️ Cloud & DevOps Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🖥️ AWS Cloud Architecture**  
+*Scalable cloud infrastructure designs*
+- 🏗️ Multi-tier architecture with EC2 & Load Balancing
+- ⚡ Serverless applications with Lambda & API Gateway
+- 📦 Data storage solutions with S3, RDS & DynamoDB
+- 🌐 CDN & DNS with CloudFront & Route 53
+
+**Focus:** AWS, CloudFormation, IAM
+
+</td>
+<td width="50%">
+
+**🛠️ DevOps Pipeline Automation**  
+*CI/CD & Infrastructure as Code*
+- 🐳 Containerized applications with Docker
+- 🔄 Automated deployments with CodeDeploy
+- 🏗️ Infrastructure provisioning with CloudFormation
+- ⚖️ Auto-scaling & high availability setups
+
+**Focus:** Docker, CI/CD, IaC
+
+</td>
+</tr>
+</table>
+
+### 💻 Programming & Web Development
+
+<table>
+<tr>
+<td width="50%">
+
+**💪 C++ & Data Structures**  
+*Algorithmic problem solving*
+- 🧮 Advanced data structure implementations
+- 🏆 Competitive programming challenges
+- 🔍 Algorithm optimization & analysis
+- 🎯 OOP design patterns in C++
+
+**Tech:** C++, OOP, STL
+
+</td>
+<td width="50%">
+
+**🌐 Front-End Applications**  
+*Modern responsive web interfaces*
+- 🎨 Responsive UI with HTML5, CSS3 & JavaScript
+- ⚛️ Interactive components with React
+- 📊 Data visualization dashboards
+- 📱 Mobile-first design approach
+
+**Tech:** JavaScript, React, HTML5, CSS3
+
+</td>
+</tr>
+</table>
+
+### 🔐 Security & Research
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Cloud Security Research**  
+*Securing cloud infrastructure*
+- 🔐 IAM policies & access control strategies
+- 🔒 Encryption & data protection in AWS
+- 🌐 VPN & network security architectures
+- ⚖️ Cloud governance & compliance frameworks
+
+**Focus:** AWS IAM, Cloud Security, Governance
+
+</td>
+<td width="50%">
+
+**📚 Continuous Learning**  
+*Staying ahead of the curve*
+- 🐧 Linux system administration mastery
+- 📖 Research implementation & documentation
+- 🤖 Emerging cloud technologies exploration
+- 🔄 DevOps methodologies & best practices
+
+**Focus:** Linux, Research, DevOps
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-thebey@outlook.in-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:thebey@outlook.in)
+[![GitHub](https://img.shields.io/badge/GitHub-ShivamDubey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamDubey)
+
+</div>
+
+<br/>
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamDubey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivamDubey.ShivamDubey" alt="Visitors" />
+</div>
+
+<br/>
 
 ---
 
-## 🎯 What I'm Working On
+<div align="center">
+  
+### 💭 Random Dev Quote
 
-- ☁️ Deepening expertise in **AWS cloud architecture** and **serverless patterns**
-- 🛠️ Learning **DevOps** — CI/CD pipelines, Docker, Kubernetes, Terraform
-- 💻 Building projects with **C++**, **DSA**, and **front-end technologies**
-- 🔒 Exploring **cloud security**, **governance**, and **infrastructure as code**
-- 🤝 Looking to collaborate on **open-source DevOps tools** and **cloud-native applications**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+**"The cloud is about where computing happens, not where the servers live."** — Shivam Dubey
 
-<p align="center">
-  <a href="mailto:thebey@outlook.in">
-    <img src="https://img.shields.io/badge/📧_Email-thebey@outlook.in-D14836?style=for-the-badge&logo=outlook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ShivamDubey">
-    <img src="https://img.shields.io/badge/GitHub-ShivamDubey-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🇮🇳_Based_in-India-FF9933?style=for-the-badge" />
-</p>
+⭐️ From [ShivamDubey](https://github.com/ShivamDubey) | Made with 💜 and ☕
 
-<p align="center">
-  <a href="https://github.com/ShivamDubey">
-    <img src="https://img.shields.io/badge/⭐_Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white" width="250" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/ShivamDubey">
-    <img src="https://img.shields.io/badge/💖_Sponsor-ff69b4?style=for-the-badge&logo=github-sponsors" width="200" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>💜 Built with passion by <a href="https://github.com/ShivamDubey"><b>Shivam Dubey</b></a> — Aspiring Cloud Computing Professional | C++ | DSA | DevOps</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+</div>
