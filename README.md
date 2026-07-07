@@ -11,7 +11,7 @@ Committed to continuous learning and professional growth, I stay updated with em
 By combining my programming expertise in C++, data structures, and front-end development with cloud computing knowledge, I aim to become a versatile and impactful technology professional ready to tackle challenges in the evolving IT landscape.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [theshivamdubey@outlook.in](mailto:theshivamdubey@outlook.in)
+* ✉️  You can contact me at [theshivamdubey@outlook.in](mailto:the@outlook.in)
 * 🧠  I'm currently learning 𝗗𝗲𝘃𝗢𝗽𝘀!
 * 👥  I'm looking to collaborate on 𝗗𝗲𝘃𝗢𝗽𝘀!
 
